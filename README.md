@@ -22,7 +22,7 @@
     http://localhost:8080/sukkiriexample/formSample.jsp
 - 第6章
   - サーブレットからJSPにforward
-    http://localhost:8080/sukkiriexample/ForwardSampleServlet
+    http://localhost:8080/sukkiriexample/FowardSampleServlet
   - リダイレクトするサーブレット
     http://localhost:8080/sukkiriexample/RedirectSampleServlet
 - 第7章
